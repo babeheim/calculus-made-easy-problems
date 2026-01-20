@@ -1,4 +1,4 @@
-![Latest Version](https://img.shields.io/badge/latest_version-0.5-blue) 
+![Latest Version](https://img.shields.io/badge/latest_version-0.6-blue) 
 
 Fully worked examples and exercises from [Calculus Made Easy](https://a.co/d/dz8wXKE) by Silvanus P. Thompson and Martin Gardner (1998 edition; originally published 1910).
 
